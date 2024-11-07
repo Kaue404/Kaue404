@@ -10,8 +10,6 @@
 ## 🚀 Sobre mim:
   Eu sou um desenvolvedor de software de 19 anos, atualmente estudando na Fatec de Franca e com paixão por transformar ideias em realidade por meio de código.Tenho experiência em diversas tecnologias e adoro contribuir em projetos com soluções impactantes.
 
-![GitHub Snake](https://github.com/Kaue404/Readme.md/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <a href="https://github.com/Kaue404">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue404&layout=compact&langs_count=7&theme=dracula"/>
