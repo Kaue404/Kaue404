@@ -3,20 +3,25 @@
 
 <div align="center">
   
-  # 👋 Olá, eu sou o Kauê!
+  # 👋 Hello, I’m Kauê!
 
 </div>
 
-## 🚀 Sobre mim:
-  Eu sou um desenvolvedor de software de 19 anos, atualmente estudando na Fatec de Franca e com paixão por transformar ideias em realidade por meio de código.Tenho experiência em diversas tecnologias e adoro contribuir em projetos com soluções impactantes.
+## 🚀 About Me:
 
+<div align="left">
+  
+  I’m a 19-year-old software developer, currently studying at Fatec Franca, and passionate about turning ideas into reality through code. I have experience in various technologies and love contributing to projects with impactful solutions.
+  
+</div>
+  
 <div align="center">
   <a href="https://github.com/Kaue404">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue404&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🔍 Atualmente focado em aprender:
+## 🔍 Currently Focusing on Learning:
 <div align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -27,13 +32,13 @@
 
 ## 🎉 Hobbies:
 
-  - 🎧 Apaixonado por música
-  - ⚡️ Amante de anime e filmes
-  - 🎮 Fã de videogame
+  - 🎧 Music enthusiast;
+  - ⚡️ Anime and movie lover;
+  - 🎮 Video game fan;
 
 <div>
 
-## 📫 Como me encontrar:
+## 📫 How to Reach Me:
 
 </div>
 
