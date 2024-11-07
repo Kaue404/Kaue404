@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim:
   Eu sou um desenvolvedor de software de 19 anos, atualmente estudando na Fatec de Franca e com paixão por transformar ideias em realidade por meio de código.Tenho experiência em diversas tecnologias e adoro contribuir em projetos com soluções impactantes.
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/Kaue404">
