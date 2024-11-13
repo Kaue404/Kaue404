@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  # 👋 Hello, I’m Kauê!
+  # Hello, I’m Kauê! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 </div>
 
