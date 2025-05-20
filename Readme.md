@@ -6,6 +6,10 @@
   ## Hello, I’m Kauê! <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 </div>
+  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaue404&style=flat-square alt=""/>
+</div>
 
 ### 🚀 About Me:
 
@@ -16,21 +20,16 @@
 </div>
   
 <div align="center">
-  <a href="https://github.com/Kaue404">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue404&layout=compact&langs_count=6&theme=radical"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaue404&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats"/>
+  <img loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue404&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-### 🎯 Currently Focusing on Learning:
-<div align="left">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+### 🎯 Technologies and Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,github,html,css,javascript,typescript,react,nextjs,vue" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,python,nodejs,mysql,mongodb,sequelize,flutter,c#" />
 </div>
 
 ### 🎉 Hobbies:
