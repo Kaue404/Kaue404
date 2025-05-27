@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaue404&show_icons=true&theme=radical&cache_seconds=3600" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaue404&show_icons=true&theme=radical&cache_seconds=3600&hide_rank=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue404&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
 </div>
@@ -25,7 +25,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,github,html,css,javascript,typescript,react,nextjs,vue" alt="Skills 1" />
-  <br /><br />
+  <br />
   <img src="https://skillicons.dev/icons?i=docker,python,nodejs,mysql,mongodb,sequelize,flutter,c#" alt="Skills 2" />
 </div>
 
