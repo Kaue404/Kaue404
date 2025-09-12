@@ -11,7 +11,7 @@
 
 ### 🚀 About Me:
 
-  I’m a 20-year-old software developer, currently studying at **Fatec Franca** and working at **Lev Negócios**. I have experience in various technologies and love contributing to projects with impactful solutions, I'm passionate about turning ideas into reality through code.
+  I’m a 20-year-old software developer, currently studying at **Fatec Franca** and working at **Âncora Consórcios**. I have experience in various technologies and love contributing to projects with impactful solutions, I'm passionate about turning ideas into reality through code.
 
 ### 📊 GitHub Stats:
 
