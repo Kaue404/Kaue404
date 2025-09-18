@@ -13,14 +13,6 @@
 
   I’m a 20-year-old software developer, currently studying at **Fatec Franca** and working at **Âncora Consórcios**. I have experience in various technologies and love contributing to projects with impactful solutions, I'm passionate about turning ideas into reality through code.
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaue404&show_icons=true&theme=radical&cache_seconds=2000&hide_rank=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue404&layout=compact&langs_count=6&theme=radical&cache_seconds=2000" alt="Top Languages"/>
-</div>
-
 ### 🛠️ Technologies & Tools:
 
 <div align="center">
