@@ -27,7 +27,7 @@
 - ⚡️ **Anime and movie lover**
 - 🎮 **Video game fan**
 
-### 😎 See my personal portfolio: [Click here](https://mywebsite-kaue.netlify.app/)
+### 😎 See my [personal portfolio](https://mywebsite-kaue.netlify.app/)
 
 ### 📫 Contact:
 
