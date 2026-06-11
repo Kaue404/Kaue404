@@ -3,7 +3,6 @@
 <div align="center">
   
   # Hello, I’m Kauê! <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="parrot" />
-  <img src="https://komarev.com/ghpvc/?username=Kaue404&style=flat-square" alt="Profile Views"/>
   
 </div>
 
@@ -11,7 +10,7 @@
 
 ### 🚀 About Me:
 
-  I’m a 21-year-old software developer, graduated in **Multiplatform Software Development** from **Fatec Franca**, currently working at **Âncora Consórcios**. I have experience with various technologies and enjoy contributing to projects through impactful solutions. I’m passionate about turning ideas into reality through code.
+  I’m a 21-year-old software developer, graduated in **Multiplatform Software Development** from **Fatec Franca**, currently working at **Âncora Consórcios**. I’m passionate about turning ideas into reality through code.
 
 ### 🛠️ Technologies & Tools:
 
