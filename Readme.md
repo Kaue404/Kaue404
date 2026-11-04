@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Kau%C3%AA+Jos%C3%A9+Abdalla+Leal&textBg=false&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&desc=Front-End+Dev&descSize=24&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=false&text=Kau%C3%AA+Jos%C3%A9+Abdalla+Leal&textBg=false&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&desc=Front-End+Dev&descSize=24&descAlign=50&descAlignY=50" />
 
 ### 🛠️ Technologies & Tools:
 
