@@ -5,9 +5,9 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs"/>
   <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,postman,notion,nestjs,npm,c#" />
+  <img src="https://skillicons.dev/icons?i=tailwind,flutter,nodejs,python,nestjs,c#" />
   <br />
-  <img src="https://skillicons.dev/icons?i=figma,github,python,nodejs,flutter,godot" />
+  <img src="https://skillicons.dev/icons?i=figma,github,npm,notion,postman,godot" />
 </div>
 
 ### 😎 See my [personal portfolio](https://mywebsite-kaue.netlify.app/)
