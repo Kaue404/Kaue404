@@ -1,5 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=color%3D0%3A000000%2C50%3A923BCC%2C100%3A6F1DFD&section=header&reversal=false&text=Kau%C3%AA+Jos%C3%A9+Abdalla+Leal&textBg=false&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&desc=Front-End+Dev&descSize=24&descAlign=50&descAlignY=50" />
 
+### 🚀 About Me:
+
+  I’m a 21-year-old software developer, graduated in **Multiplatform Software Development** from **Fatec Franca**,
+  <br />
+  currently working at **Âncora Consórcios**. I’m passionate about turning ideas into reality through code.
+
+### 😎 See my [personal portfolio](https://mywebsite-kaue.netlify.app/)
+
 ### 🛠️ Technologies & Tools:
 
 <div>
@@ -9,14 +17,6 @@
   <br />
   <img src="https://skillicons.dev/icons?i=figma,github,npm,notion,postman,godot" />
 </div>
-
-### 😎 See my [personal portfolio](https://mywebsite-kaue.netlify.app/)
-
-### 🚀 About Me:
-
-  I’m a 21-year-old software developer, graduated in **Multiplatform Software Development** from **Fatec Franca**,
-  <br />
-  currently working at **Âncora Consórcios**. I’m passionate about turning ideas into reality through code.
 
 ### 📫 Contact:
 
